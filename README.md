@@ -1,7 +1,7 @@
 ### Olá, eu sou o Rodrigo!
 
-- 🔭 Atualmente trabalho na area de Sales Force
-- 🌱 Estou aprendendo a linguagem Java
+- 🔭 Trabalho na area de Sales Force
+- 🌱 Atualmente estou aprendendo Java
 - 😄 Pronouns: Ele/dele
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-moreira-85a123145)
