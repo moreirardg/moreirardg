@@ -1,6 +1,5 @@
 ### Olá, eu sou o Rodrigo!
 
-- 🔭 Trabalho na area de Sales Force
 - 🌱 Atualmente estou aprendendo Java
 - 😄 Pronouns: Ele/dele
 
